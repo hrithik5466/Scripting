@@ -6,3 +6,6 @@ echo "I am upgrading myself into DevOps"
 echo "My mentor is guiding me to upgrade my skills"
 echo "I am Learning Git Concepts"
 echo "I am upgrading my skills"
+echo "I am learning git and github"
+echo "It will help me to get a job in DevOps"
+
